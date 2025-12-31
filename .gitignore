@@ -34,3 +34,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Old/backup files
+cis_check_esxi.py
